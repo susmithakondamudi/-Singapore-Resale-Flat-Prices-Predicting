@@ -7,6 +7,7 @@ import streamlit as st
 import warnings
 warnings.simplefilter("ignore")
 
+
 # Define unique values for select boxes
 flat_model_options = ['IMPROVED', 'NEW GENERATION', 'MODEL A', 'STANDARD', 'SIMPLIFIED',
                       'MODEL A-MAISONETTE', 'APARTMENT', 'MAISONETTE', 'TERRACE', '2-ROOM',
